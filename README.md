@@ -1,19 +1,17 @@
 # Hi, I'm José Pedro 👋
 
-🎓 3rd Year Student in Web Information Systems and Technologies  
+🎓 3rd Year Student in Tecnologias e Sistemas de Informação para a Web
 🏫 Escola Superior de Media, Arts and Design (ESMAD)  
 💻 Web Development | Frontend | Backend | Databases | AI  
-📍 Guimarães / Vila do Conde, Portugal | Hybrid Internship
+📍 Guimarães / Vila do Conde, Portugal 
 
 ---
 
 ## 👨‍💻 About Me
 
-I am a 3rd year student in Web Information Systems and Technologies at Escola Superior de Media, Arts and Design (ESMAD).
+I am a 3rd year student in Tecnologias e Sistemas de Informação para a Web at Escola Superior de Media, Arts and Design (ESMAD).
 
 I have hands-on experience in web development, working with frontend and backend technologies, databases, and artificial intelligence concepts through academic projects.
-
-I am currently looking for a hybrid internship where I can apply my technical skills, improve my problem-solving abilities, and continue learning best practices in software development.
 
 ---
 
@@ -63,7 +61,6 @@ I am currently looking for a hybrid internship where I can apply my technical sk
 
 - REST APIs  
 - WordPress  
-- AI-assisted development tools (Cursor, Antigravity)
 
 ---
 
