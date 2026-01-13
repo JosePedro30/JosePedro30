@@ -71,6 +71,7 @@ I have hands-on experience in web development, working with frontend and backend
 
 ## 🌐 Social
 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/josepedro17)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/zepedro_30/)
 
 ---
