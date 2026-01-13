@@ -68,7 +68,10 @@ I have hands-on experience in web development, working with frontend and backend
 
 - Academic Email: 40210276@esmad.ipp.pt  
 - Personal Email: josepedropgs@gmail.com  
-- Social Media: *(to be added)*
+
+## 🌐 Social
+
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/zepedro_30/)
 
 ---
 
